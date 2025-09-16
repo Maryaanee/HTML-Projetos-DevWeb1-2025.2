@@ -24,7 +24,7 @@
 
 <p align="center">
   ✨ Este espaço foi criado para organizar e armazenar todas os <br> 
-  📝 Projetos, 💻 e códigos relacionados aos estudos de **HTML**.  
+  📝 Projetos, 💻 e códigos relacionados aos estudos de **HTML**, feitos com o VScode.  
 </p>
 
 <p align="center">
